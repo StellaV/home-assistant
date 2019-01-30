@@ -1,0 +1,4 @@
+- platform: unifi_direct
+  host: !secret unifi_directhost
+  username: !secret unifi_directuser
+  password: !secret unifi_directpass
